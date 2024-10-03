@@ -1,2 +1,3 @@
 # manik-demo
-this is my first repositery
+this is my first repositery.
+manik lama .
